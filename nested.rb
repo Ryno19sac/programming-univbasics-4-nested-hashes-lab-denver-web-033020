@@ -103,7 +103,6 @@ alans_new_info = [:known_for => "GUI"]
         :languages => ["C"]
       }
     }
-binding.pry
 programmer_hash[:alan_kay][:known_for] = ["GUI"]
 end
 
