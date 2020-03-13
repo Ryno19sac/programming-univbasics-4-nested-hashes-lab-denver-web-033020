@@ -104,7 +104,7 @@ alans_new_info = [:known_for => "GUI"]
       }
     }
   binding.pry 
-programmer_hash[:alan_kay]=> :known_for] = ["GUI"]
+programmer_hash[:alan_kay][:known_for] = ["GUI"]
 
 
 end
