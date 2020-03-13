@@ -127,6 +127,7 @@ def adding_to_dennis
         :languages => ["C"]
       }
     }
-   
+   if [dennis_ritchie][:language] = ["Assembly"]
+
 
 end
